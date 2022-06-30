@@ -28,7 +28,7 @@
   "homepage": "https://github.com/postmanlabs/code-generators/tree/master/codegens/nodejs-request",
   "dependencies": {},
   "devDependencies": {
-    "request": "2.83.0"
+    "request": "2.87.0"
   },
   "engines": {
     "node": ">=8"
