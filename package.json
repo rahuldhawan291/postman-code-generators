@@ -34,7 +34,7 @@
     "browserify": "14.5.0",
     "chai": "4.3.6",
     "chalk": "2.4.2",
-    "eslint": "5.16.0",
+    "eslint": "6.0.0",
     "dependency-check": "3.0.0",
     "editorconfig": "0.15.3",
     "eslint-plugin-jsdoc": "3.15.1",
@@ -43,15 +43,15 @@
     "eslint-plugin-security": "1.4.0",
     "istanbul": "0.4.5",
     "js-yaml": "3.14.1",
-    "newman": "5.3.2",
-    "jsdoc": "3.6.10",
+    "newman": "6.0.0",
+    "jsdoc": "4.0.0",
     "mocha": "6.2.3",
     "lodash": "4.17.21",
-    "nyc": "14.1.1",
+    "nyc": "15.0.0",
     "parse-gitignore": "1.0.1",
     "pretty-ms": "3.2.0",
     "recursive-readdir": "2.2.2",
-    "watchify": "3.11.1"
+    "watchify": "4.0.0"
   },
   "engines": {
     "node": ">=6"
